@@ -1,2 +1,3 @@
 # errrrrrrrrrrrrrrrrrrrrrrrr
+ git clean
  
